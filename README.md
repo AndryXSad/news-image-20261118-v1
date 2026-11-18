@@ -1,8 +1,8 @@
 # The Daily Globe — Wednesday 18 November 2026
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/news-image-20261118)
-[![competition](https://img.shields.io/badge/competition-news--image--20261118-green)](https://make.fun/bounty/news-image-20261118)
-[![prize](https://img.shields.io/badge/prize-%24250-gold)](https://make.fun/bounty/news-image-20261118)
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/AndryXSad/news-image-20261118-v1/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/AndryXSad/news-image-20261118-v1/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 
 One image that sums up the world's news of **Wednesday 18 November 2026**:
 a newspaper front page — *The Daily Globe* — with 19 stories across
